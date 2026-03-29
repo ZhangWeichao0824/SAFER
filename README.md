@@ -20,5 +20,5 @@ To reproduce the results of Table 1, please run the run.sh:
 ```
 ./run.sh
 ```
-## Acknowledgment
-This code is implemented based on [TPP](https://github.com/mala-lab/TPP) and [CGLB](https://github.com/QueuQ/CGLB/tree/master). Please refer to TPP and CGLB for more baselines and implementation details.
+## Acknowledgments
+This code is based on [TPP](https://github.com/mala-lab/TPP) and [CGLB](https://github.com/QueuQ/CGLB/tree/master). Please refer to their repositories for additional baselines and implementation details.

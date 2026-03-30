@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td align="center">TPP</td>
-    <td align="center">91.55±0.0</td><td align="center">0.0±0.0</td><td align="center">80.9±0.1</td><td align="center">79.9±0.0</td>
+    <td align="center">91.6±0.0</td><td align="center">0.0±0.0</td><td align="center">80.9±0.1</td><td align="center">79.9±0.0</td>
     <td align="center">85.4±0.1</td><td align="center">0.0±0.0</td><td align="center">58.8±0.1</td><td align="center">57.7±0.1</td>
     <td align="center">99.4±0.0</td><td align="center">0.0±0.0</td><td align="center">71.0±0.1</td><td align="center">70.9±0.1</td>
     <td align="center">87.2±0.0</td><td align="center">0.0±0.0</td><td align="center">69.1±0.0</td><td align="center">68.5±0.0</td>
@@ -64,14 +64,14 @@
     <td align="center">78.2±0.3</td><td align="center">2.1±0.2</td><td align="center">66.6±0.2</td><td align="center">62.5±0.0</td>
     <td align="center">48.1±0.6</td><td align="center">-5.0±2.3</td><td align="center">54.1±0.5</td><td align="center">37.7±0.7</td>
     <td align="center">85.8±1.8</td><td align="center">-10.9±2.1</td><td align="center">55.4±0.5</td><td align="center">53.2±2.7</td>
-    <td align="center">54.7±2.8</td><td align="center">-11.4±1.4</td><td align="center">61.92±0.5</td><td align="center">38.36±0.7</td>
+    <td align="center">54.7±2.8</td><td align="center">-11.4±1.4</td><td align="center">61.9±0.5</td><td align="center">38.4±0.7</td>
   </tr>
   <tr>
     <td align="center">TPP</td>
     <td align="center">91.6±0.0</td><td align="center">0.0±0.0</td><td align="center">80.9±0.0</td><td align="center">79.85±0.0</td>
-    <td align="center">85.38±0.1</td><td align="center">0.0±0.0</td><td align="center">58.8±0.1</td><td align="center">57.67±0.0</td>
+    <td align="center">85.4±0.1</td><td align="center">0.0±0.0</td><td align="center">58.8±0.1</td><td align="center">57.7±0.0</td>
     <td align="center">99.4±0.0</td><td align="center">0.0±0.0</td><td align="center">71.0±0.1</td><td align="center">70.9±0.0</td>
-    <td align="center">87.2±0.0</td><td align="center">0.0±0.0</td><td align="center">69.1±0.1</td><td align="center">68.58±0.0</td>
+    <td align="center">87.2±0.0</td><td align="center">0.0±0.0</td><td align="center">69.1±0.1</td><td align="center">68.6±0.0</td>
   </tr>
   <tr>
     <td align="center"><b>SAFER</b></td>
@@ -104,8 +104,8 @@
   </tr>
   <tr>
     <td align="center">DMSG</td>
-    <td align="center">79.5±0.6</td><td align="center">1.5±1.26</td><td align="center">82.43±0.2</td><td align="center">75.2±0.1</td>
-    <td align="center">48.43±0.1</td><td align="center">-3.8±1.1</td><td align="center">53.3±0.6</td><td align="center">37.7±0.2</td>
+    <td align="center">79.5±0.6</td><td align="center">1.5±1.3</td><td align="center">82.4±0.2</td><td align="center">75.2±0.1</td>
+    <td align="center">48.4±0.1</td><td align="center">-3.8±1.1</td><td align="center">53.3±0.6</td><td align="center">37.7±0.2</td>
     <td align="center">94.6±1.7</td><td align="center">-2.3±0.4</td><td align="center">56.5±4.5</td><td align="center">56.1±4.5</td>
     <td align="center">54.58±1.0</td><td align="center">-11.7±0.4</td><td align="center">47.5±4.1</td><td align="center">33.2±3.0</td>
   </tr>

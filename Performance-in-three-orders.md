@@ -43,7 +43,7 @@
 
 <div align="center">
 
-<b>Performance in size ascending order</b>
+<b>Table: Performance in size ascending order</b>
 
 <table>
   <tr>
